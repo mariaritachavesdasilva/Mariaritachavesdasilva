@@ -13,7 +13,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvim
   />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/maria-rita-chaves-da-silva-6b1b90228">
+<a href="https://www.linkedin.com/in/maria-rita-chaves-da-silva-6b1b90228">
   <img 
     alt="LinkedIn" 
     title="Meu LinkedIn" 
