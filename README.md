@@ -2,7 +2,9 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e construção de soluções eficientes. Busco minha primeira oportunidade na área de tecnologia, onde eu possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir com projetos reais. Tenho grande interesse em Engenharia de Software e crescimento contínuo na área de desenvolvimento.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Unisepe São Lourenço, apaixonada por inovação e criação de soluções em software.
+Acredito muito no aprendizado contínuo. Por isso, além da graduação, invisto meu tempo em aprimorar minha base técnica com cursos extracurriculares, e dedico-me ao estudo da língua inglesa, visando expandir minhas oportunidades no mercado global de tech.
+Atualmente, meu foco é construir uma carreira sólida, transformando teoria em prática. Estou em busca da minha primeira oportunidade de estágio, onde eu possa agregar valor a projetos reais, aprender com profissionais da área e evoluir tecnicamente.
 
 
 <a href="https://www.instagram.com/mariarita.dev">
