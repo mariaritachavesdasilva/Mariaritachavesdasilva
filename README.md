@@ -43,6 +43,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvim
 />
 <img 
     align="left" 
+    alt="SQL"
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" 
+/>
+<img 
+    align="left" 
     alt="Lógica de Programação"
     title="Lógica de Programação"
     width="30px" 
